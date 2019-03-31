@@ -1,4 +1,3 @@
-/*author：hjchjcjh
 The code is simple, so I won't comment on it.
 
 Reference
