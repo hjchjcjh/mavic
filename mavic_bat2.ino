@@ -1,4 +1,4 @@
-The code is simple, so I won't comment on it.
+/*The code is simple, so I won't comment on it.
 
 Reference
 https://github.com/sincoder/mavic_bat
