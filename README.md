@@ -1,2 +1,3 @@
 # mavic
-显示mavic pro电压代码
+Display mavic Pro voltage with aeromodelling battery.
+You only need one Arduino and three resistors (voltage sensors) to make it.
